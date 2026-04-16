@@ -1,0 +1,52 @@
+[
+  {
+    "id": "uuid-1",
+    "isbn_13": "9780140028300",
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "status": "Finished",
+    "dates_finished": [
+      "2024-03-15"
+    ],
+    "rating": 5,
+    "format": "Hardcover",
+    "location": "Shelf A",
+    "cover_path": "covers/sample1.jpg"
+  },
+  {
+    "id": "uuid-2",
+    "isbn_13": "9780451524935",
+    "title": "1984",
+    "author": "George Orwell",
+    "status": "Currently Reading",
+    "dates_finished": [],
+    "rating": 0,
+    "format": "Paperback",
+    "location": "Nightstand",
+    "cover_path": "covers/sample2.jpg"
+  },
+  {
+    "id": "uuid-3",
+    "isbn_13": "9780316769174",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "status": "To-Read",
+    "dates_finished": [],
+    "rating": 0,
+    "format": "Paperback",
+    "location": "Shelf B",
+    "cover_path": "covers/sample3.jpg"
+  },
+  {
+    "isbn_13": "979-8893310474",
+    "title": "The Simple Path to Wealth",
+    "author": "J. L. Collins",
+    "format": "Hardcover",
+    "location": "Bedroom Bookcase",
+    "status": "To-Read",
+    "id": "uuid-1vhlfkta5",
+    "dates_finished": [],
+    "rating": 0,
+    "cover_path": "covers/1776363307740.jpg"
+  }
+]
